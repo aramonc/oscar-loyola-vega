@@ -8,4 +8,4 @@ category:
     - Fotos
 ---
 
-{% asset_img "1976.jpg" "Familia Loyola in 1976" %}
+{% asset_img "1976.jpg" "Familia Loyola en 1976" %}
