@@ -30,7 +30,7 @@ skip_render:
 # Writing
 new_post_name: :title.md # File name of new posts
 default_layout: post
-titlecase: false # Transform title into titlecase
+titlecase: true # Transform title into titlecase
 external_link: true # Open external links in new tab
 filename_case: 0
 render_drafts: false
@@ -69,7 +69,11 @@ disqus_shortname: oscarloyola
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
-  type: s3
+  type: s3-cloudfront
+  bucket: www.oscarloyola.info
+  concurrency: 10
+  region: ca-central-1
+  headers: {CacheControl: 'max-age=604800, public'}
 
 # RSS Feed
 feed:
@@ -77,3 +81,7 @@ feed:
   path: atom.xml
   limit: 0
   hub:
+
+sitemap:
+    path: sitemap.xml
+    template: ./sitemap_template.xml
