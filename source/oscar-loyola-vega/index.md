@@ -5,6 +5,7 @@ date: 2017-02-19 15:24:48
 
 ## SÍNTESIS BIOGRÁFICA DE OSCAR ANTONIO LOYOLA VEGA, DOCTOR EN CIENCIAS HISTÓRICAS
 
+![Oscar Loyola Vega en Caracas 2007](index/OscarLoyolaCaracas2007.jpg)
 **Nombre:** Oscar Antonio Loyola Vega.  
 **Centro de Trabajo:** Departamento de Historia de Cuba, Facultad de Filosofía e Historia,   Universidad de La Habana.  
 **Grado académico:** Doctor en Ciencias Históricas (1989).  
