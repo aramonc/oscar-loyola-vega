@@ -24,4 +24,3 @@ Como parte del 2nd Coloquio Construyendo la Nación, se presentaron dos edicione
 {% asset_img "Presentación Revista El Historiador y Cuadernos de Historia no. 12.jpg" "Presentación Revista El Historiador y Cuadernos de Historia no. 12" %}
 
 {% asset_img "Presentación Revista El Historiador y Cuadernos de Historia no. 28.jpg" "Presentación Revista El Historiador y Cuadernos de Historia no. 28" %}
-
