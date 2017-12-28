@@ -69,11 +69,8 @@ disqus_shortname: oscarloyola
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
-  type: s3-cloudfront
-  bucket: www.oscarloyola.info
-  concurrency: 10
-  region: ca-central-1
-  headers: {CacheControl: 'max-age=604800, public'}
+  type: heroku
+  repo: https://git.heroku.com/oscar-loyola.git
 
 # RSS Feed
 feed:
